@@ -11,6 +11,6 @@ This tool combines all `.md` files into a single output file named `combined.md`
 1. Place the `combiner.exe` file in the directory with your Markdown files
 2. Run the program:
 ```bash
-go run combiner.exe
+run combiner.exe
 ```
 3. Find the combined output in `combined.md`
